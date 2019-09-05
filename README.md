@@ -1,6 +1,6 @@
 # Experimenting with point cloud data (CT Scan data)
 
-![Image of application](https://i.imgur.com/eiDY76l.png)
+![Image of application](https://i.imgur.com/iJ0KFlz.jpg)
 
 ## About
 
